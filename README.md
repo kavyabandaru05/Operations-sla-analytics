@@ -72,10 +72,10 @@ project-2-sla-analytics/
 │   ├── tickets_clean.csv
 │   └── sla_analytics.db
 │
-├── dashboard/
+├──├── dashboard/
 │   ├── Operations_SLA_Analytics.pbix
-│   ├── kpi_team.csv
-│   └── kpi_weekday.csv
+│   ├── Operations_SLA_Analytics_Presentation.pptx
+│   └── KPI CSV files
 │
 ├── docs/
 │   ├── requirements.md
