@@ -1,0 +1,19 @@
+check,rows_affected,action
+Total raw rows,6661,Baseline
+Priority standardisation,1,Trimmed whitespace and standardised casing
+Exact duplicate rows,1,Removed
+Missing priority,1,Removed because SLA category cannot be determined
+Missing team,1,Replaced with Unassigned
+Invalid priority values,0,Removed
+Invalid ticket statuses,0,Removed
+Invalid or missing creation timestamps,0,Removed
+Invalid or missing first response timestamps,0,Removed
+First response before ticket creation,1,Removed
+Closed/Resolved tickets without resolution timestamp,1,Removed
+Resolution before ticket creation,1,Removed
+Missing or non-positive SLA targets,0,Removed
+SLA target inconsistent with priority,0,Removed for reliable priority-based SLA analysis
+CSAT outside valid 1-5 range,1,Set to missing
+Invalid reopened flags,0,Removed
+Extreme resolution times above 2000 hours,1,Flagged for review; not automatically removed
+Rows after cleaning,6656,Final cleaned dataset

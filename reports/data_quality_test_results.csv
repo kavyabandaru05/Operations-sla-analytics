@@ -1,0 +1,11 @@
+test_name,result,details
+Dataset not empty,PASS,Rows found: 6656
+Unique ticket IDs,PASS,Duplicate IDs: 0
+No duplicate records,PASS,Duplicate rows: 0
+Required columns present,PASS,Missing columns: []
+Valid SLA breach flags,PASS,SLA breach values must be 0 or 1
+Valid reopened flags,PASS,Reopened values must be 0 or 1
+Positive SLA targets,PASS,All SLA targets must be greater than zero
+CSAT within 1-5,PASS,Non-missing CSAT scores must be between 1 and 5
+Valid response timestamps,PASS,First response must not precede ticket creation
+CSV and SQLite row counts match,PASS,"CSV: 6656, SQLite: 6656"

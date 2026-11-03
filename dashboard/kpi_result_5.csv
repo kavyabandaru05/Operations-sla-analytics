@@ -1,0 +1,22 @@
+root_cause,team,total_tickets,breached_tickets,breach_pct,share_of_all_breaches
+Performance issue,Technical Support,522,228,43.68,9.49
+Outage,Technical Support,512,223,43.55,9.28
+Software bug,Technical Support,456,216,47.37,8.99
+Integration error,Technical Support,537,207,38.55,8.62
+Configuration issue,Technical Support,468,203,43.38,8.45
+Incorrect invoice,Billing,404,195,48.27,8.12
+Payment failure,Billing,385,186,48.31,7.74
+Refund delay,Billing,336,170,50.6,7.08
+Duplicate charge,Billing,363,164,45.18,6.83
+Wrong item,Logistics,205,122,59.51,5.08
+Damaged item,Logistics,200,116,58.0,4.83
+Delivery delay,Logistics,198,106,53.54,4.41
+Tracking error,Logistics,204,101,49.51,4.2
+MFA issue,Account Access,350,43,12.29,1.79
+Password reset,Account Access,346,29,8.38,1.21
+Locked account,Account Access,318,25,7.86,1.04
+Permissions error,Account Access,318,24,7.55,1.0
+Policy question,General Enquiry,170,16,9.41,0.67
+Product question,General Enquiry,181,14,7.73,0.58
+Feedback,General Enquiry,182,14,7.69,0.58
+Performance issue,Unassigned,1,0,0.0,0.0

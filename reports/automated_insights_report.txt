@@ -1,0 +1,50 @@
+
+OPERATIONS SLA ANALYTICS
+AUTOMATED BUSINESS INSIGHTS REPORT
+===================================
+
+1. OVERALL PERFORMANCE
+----------------------
+Total Tickets: 6656
+SLA Breach Rate: 36.09%
+Average Resolution Time: 29.16 hours
+Average First Response Time: 3.78 hours
+Reopened Ticket Rate: 5.86%
+Average Customer Satisfaction: 3.77/5
+Current Backlog: 146 tickets
+
+2. TEAM PERFORMANCE
+-------------------
+Highest SLA Breach Team: Logistics
+Team Breach Rate: 55.14%
+
+3. MONTHLY PERFORMANCE
+----------------------
+Worst Month: 2025-12
+Monthly Breach Rate: 41.45%
+
+4. PRIORITY ANALYSIS
+--------------------
+Highest Breach Priority: High
+Priority Breach Rate: 37.95%
+
+5. ROOT CAUSE ANALYSIS
+---------------------
+Root Cause with Most Breaches: Performance issue
+Breached Tickets: 228
+
+6. CUSTOMER SATISFACTION
+------------------------
+Average CSAT Without SLA Breach: 4.07/5
+Average CSAT With SLA Breach: 3.24/5
+
+7. RECOMMENDATIONS
+------------------
+- Investigate the team with the highest SLA breach rate.
+- Review staffing and workload during the worst-performing month.
+- Examine the root causes contributing most to SLA breaches.
+- Prioritise breached tickets to improve customer satisfaction.
+- Monitor backlog and resolution time regularly.
+
+Note: This report is generated from the SQL KPI result files.
+The dataset is synthetic and the findings represent this dataset.

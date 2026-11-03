@@ -1,0 +1,29 @@
+weekday,channel,total_tickets,breached_tickets,breach_pct,avg_first_response_hrs
+Monday,Phone,371,124,33.42,4.04
+Monday,Chat,356,134,37.64,3.42
+Monday,Web Form,339,107,31.56,3.65
+Monday,Email,337,116,34.42,4.17
+Friday,Phone,281,94,33.45,3.66
+Thursday,Phone,281,115,40.93,4.25
+Tuesday,Chat,279,93,33.33,3.73
+Wednesday,Phone,279,110,39.43,3.38
+Thursday,Chat,276,111,40.22,4.18
+Friday,Chat,271,105,38.75,3.91
+Tuesday,Phone,270,88,32.59,3.99
+Thursday,Email,267,113,42.32,3.49
+Wednesday,Chat,267,77,28.84,3.76
+Wednesday,Email,265,103,38.87,4.43
+Wednesday,Web Form,265,107,40.38,3.97
+Friday,Web Form,264,92,34.85,3.86
+Thursday,Web Form,262,89,33.97,3.4
+Tuesday,Email,259,93,35.91,3.17
+Tuesday,Web Form,259,89,34.36,3.4
+Friday,Email,255,85,33.33,3.77
+Sunday,Phone,132,44,33.33,4.0
+Sunday,Email,130,55,42.31,3.44
+Saturday,Web Form,125,41,32.8,4.12
+Saturday,Email,120,39,32.5,3.77
+Saturday,Chat,119,38,31.93,3.81
+Sunday,Web Form,118,57,48.31,3.54
+Saturday,Phone,105,51,48.57,3.78
+Sunday,Chat,104,32,30.77,3.15
